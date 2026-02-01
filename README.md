@@ -5,6 +5,8 @@ The system recommends suitable job roles based on resume skills and highlights m
 ## Project Explanation
 This system analyzes a candidate’s resume to extract technical skills using NLP techniques. These skills are compared with predefined job role requirements stored in a dataset. Based on the matching percentage, the system recommends suitable job roles and highlights missing skills to help candidates upskill.
 ## How to Run
-1. Clone or download the repository
-2. Navigate to the project folder
-3. Run the command: python src/main.py
+1. Download or clone the repository
+2. Open terminal inside the project folder
+3. Navigate to src folder
+4. Run: python main.py
+
